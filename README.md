@@ -1,6 +1,4 @@
-End-to-End Revenue, Customer & Marketing Analytics
-
-#Project Overview
+## Project Overview
 
 This project delivers an end-to-end analytics solution for an e-commerce business, focusing on revenue performance, customer behavior, retention, and promotion effectiveness.
 
